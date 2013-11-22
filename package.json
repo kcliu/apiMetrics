@@ -1,0 +1,23 @@
+{
+  "name": "apiMetrics",
+  "version": "0.0.0",
+  "description": "apiMetrics ==========",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kcliu/apiMetrics.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kcliu/apiMetrics/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "q": "~0.9.7",
+    "debug": "~0.7.4"
+  }
+}
